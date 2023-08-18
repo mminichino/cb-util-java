@@ -1,4 +1,4 @@
-package com.us.unix.cbsession;
+package com.us.unix.cbutil.cbsession;
 
 public class CouchbaseSession {
 }

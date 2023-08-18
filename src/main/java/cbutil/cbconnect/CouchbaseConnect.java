@@ -1,2 +1,4 @@
-package com.us.unix.cbutil.cbsession;public class CouchbaseConnect {
+package com.us.unix.cbutil.cbconnect;
+
+public class CouchbaseConnect {
 }
